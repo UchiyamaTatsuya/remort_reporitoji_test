@@ -1,1 +1,5 @@
-hello
+import sys
+
+print("hello")
+my_name = "Sam"
+print(my_name)
